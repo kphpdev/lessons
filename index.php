@@ -7,8 +7,8 @@ try {
     $host = 'd_mysql';
     $port = 3306;
     $dbname = 'localphp';
-    $user = 'user';
-    $pass = 'passwordQejaksdc002';
+    $user = 'root';
+    $pass = 'pass1029384756';
 
     $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8;port=$port";
 
